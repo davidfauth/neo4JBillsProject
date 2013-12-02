@@ -1,0 +1,109 @@
+2013-12-02 14:47:52,213 INFO To reduce the amount of information being logged only a small subset of rows are logged at the INFO level.  Call mortar_logging.set_log_level_debug in pig_util to see all rows being processed.
+2013-12-02 14:47:52,213 INFO Row 1: Serialized Input: 
+2013-12-02 14:47:52,213 INFO Row 1: Deserialized Input: []
+2013-12-02 14:47:52,214 INFO Row 1: UDF Output: 1
+2013-12-02 14:47:52,214 INFO Row 1: Serialized Output: 1
+2013-12-02 14:47:52,477 INFO Row 2: Serialized Input: 
+2013-12-02 14:47:52,477 INFO Row 2: Deserialized Input: []
+2013-12-02 14:47:52,477 INFO Row 2: UDF Output: 2
+2013-12-02 14:47:52,477 INFO Row 2: Serialized Output: 2
+2013-12-02 14:47:52,497 INFO Row 3: Serialized Input: 
+2013-12-02 14:47:52,497 INFO Row 3: Deserialized Input: []
+2013-12-02 14:47:52,497 INFO Row 3: UDF Output: 3
+2013-12-02 14:47:52,497 INFO Row 3: Serialized Output: 3
+2013-12-02 14:47:52,512 INFO Row 4: Serialized Input: 
+2013-12-02 14:47:52,512 INFO Row 4: Deserialized Input: []
+2013-12-02 14:47:52,512 INFO Row 4: UDF Output: 4
+2013-12-02 14:47:52,512 INFO Row 4: Serialized Output: 4
+2013-12-02 14:47:52,527 INFO Row 5: Serialized Input: 
+2013-12-02 14:47:52,527 INFO Row 5: Deserialized Input: []
+2013-12-02 14:47:52,527 INFO Row 5: UDF Output: 5
+2013-12-02 14:47:52,527 INFO Row 5: Serialized Output: 5
+2013-12-02 14:47:52,542 INFO Row 6: Serialized Input: 
+2013-12-02 14:47:52,542 INFO Row 6: Deserialized Input: []
+2013-12-02 14:47:52,542 INFO Row 6: UDF Output: 6
+2013-12-02 14:47:52,542 INFO Row 6: Serialized Output: 6
+2013-12-02 14:47:52,558 INFO Row 7: Serialized Input: 
+2013-12-02 14:47:52,558 INFO Row 7: Deserialized Input: []
+2013-12-02 14:47:52,558 INFO Row 7: UDF Output: 7
+2013-12-02 14:47:52,558 INFO Row 7: Serialized Output: 7
+2013-12-02 14:47:52,577 INFO Row 8: Serialized Input: 
+2013-12-02 14:47:52,577 INFO Row 8: Deserialized Input: []
+2013-12-02 14:47:52,577 INFO Row 8: UDF Output: 8
+2013-12-02 14:47:52,577 INFO Row 8: Serialized Output: 8
+2013-12-02 14:47:52,592 INFO Row 9: Serialized Input: 
+2013-12-02 14:47:52,592 INFO Row 9: Deserialized Input: []
+2013-12-02 14:47:52,592 INFO Row 9: UDF Output: 9
+2013-12-02 14:47:52,592 INFO Row 9: Serialized Output: 9
+2013-12-02 14:47:52,607 INFO Row 10: Serialized Input: 
+2013-12-02 14:47:52,607 INFO Row 10: Deserialized Input: []
+2013-12-02 14:47:52,607 INFO Row 10: UDF Output: 10
+2013-12-02 14:47:52,607 INFO Row 10: Serialized Output: 10
+2013-12-02 14:47:52,622 INFO Row 11: Serialized Input: 
+2013-12-02 14:47:52,623 INFO Row 11: Deserialized Input: []
+2013-12-02 14:47:52,623 INFO Row 11: UDF Output: 11
+2013-12-02 14:47:52,623 INFO Row 11: Serialized Output: 11
+2013-12-02 14:47:52,637 INFO Row 12: Serialized Input: 
+2013-12-02 14:47:52,637 INFO Row 12: Deserialized Input: []
+2013-12-02 14:47:52,638 INFO Row 12: UDF Output: 12
+2013-12-02 14:47:52,638 INFO Row 12: Serialized Output: 12
+2013-12-02 14:47:52,653 INFO Row 13: Serialized Input: 
+2013-12-02 14:47:52,653 INFO Row 13: Deserialized Input: []
+2013-12-02 14:47:52,653 INFO Row 13: UDF Output: 13
+2013-12-02 14:47:52,653 INFO Row 13: Serialized Output: 13
+2013-12-02 14:47:52,667 INFO Row 14: Serialized Input: 
+2013-12-02 14:47:52,667 INFO Row 14: Deserialized Input: []
+2013-12-02 14:47:52,667 INFO Row 14: UDF Output: 14
+2013-12-02 14:47:52,667 INFO Row 14: Serialized Output: 14
+2013-12-02 14:47:52,680 INFO Row 15: Serialized Input: 
+2013-12-02 14:47:52,680 INFO Row 15: Deserialized Input: []
+2013-12-02 14:47:52,680 INFO Row 15: UDF Output: 15
+2013-12-02 14:47:52,680 INFO Row 15: Serialized Output: 15
+2013-12-02 14:47:53,749 INFO Row 100: Serialized Input: 
+2013-12-02 14:47:53,749 INFO Row 100: Deserialized Input: []
+2013-12-02 14:47:53,749 INFO Row 100: UDF Output: 100
+2013-12-02 14:47:53,749 INFO Row 100: Serialized Output: 100
+2013-12-02 14:47:53,763 INFO Row 101: Serialized Input: 
+2013-12-02 14:47:53,763 INFO Row 101: Deserialized Input: []
+2013-12-02 14:47:53,763 INFO Row 101: UDF Output: 101
+2013-12-02 14:47:53,763 INFO Row 101: Serialized Output: 101
+2013-12-02 14:47:53,775 INFO Row 102: Serialized Input: 
+2013-12-02 14:47:53,776 INFO Row 102: Deserialized Input: []
+2013-12-02 14:47:53,776 INFO Row 102: UDF Output: 102
+2013-12-02 14:47:53,776 INFO Row 102: Serialized Output: 102
+2013-12-02 14:47:53,789 INFO Row 103: Serialized Input: 
+2013-12-02 14:47:53,789 INFO Row 103: Deserialized Input: []
+2013-12-02 14:47:53,789 INFO Row 103: UDF Output: 103
+2013-12-02 14:47:53,789 INFO Row 103: Serialized Output: 103
+2013-12-02 14:47:53,801 INFO Row 104: Serialized Input: 
+2013-12-02 14:47:53,801 INFO Row 104: Deserialized Input: []
+2013-12-02 14:47:53,801 INFO Row 104: UDF Output: 104
+2013-12-02 14:47:53,801 INFO Row 104: Serialized Output: 104
+2013-12-02 14:47:53,814 INFO Row 105: Serialized Input: 
+2013-12-02 14:47:53,814 INFO Row 105: Deserialized Input: []
+2013-12-02 14:47:53,814 INFO Row 105: UDF Output: 105
+2013-12-02 14:47:53,814 INFO Row 105: Serialized Output: 105
+2013-12-02 14:48:02,666 INFO Row 1000: Serialized Input: 
+2013-12-02 14:48:02,667 INFO Row 1000: Deserialized Input: []
+2013-12-02 14:48:02,667 INFO Row 1000: UDF Output: 1000
+2013-12-02 14:48:02,667 INFO Row 1000: Serialized Output: 1000
+2013-12-02 14:48:02,676 INFO Row 1001: Serialized Input: 
+2013-12-02 14:48:02,677 INFO Row 1001: Deserialized Input: []
+2013-12-02 14:48:02,677 INFO Row 1001: UDF Output: 1001
+2013-12-02 14:48:02,677 INFO Row 1001: Serialized Output: 1001
+2013-12-02 14:48:02,687 INFO Row 1002: Serialized Input: 
+2013-12-02 14:48:02,687 INFO Row 1002: Deserialized Input: []
+2013-12-02 14:48:02,687 INFO Row 1002: UDF Output: 1002
+2013-12-02 14:48:02,687 INFO Row 1002: Serialized Output: 1002
+2013-12-02 14:48:02,698 INFO Row 1003: Serialized Input: 
+2013-12-02 14:48:02,698 INFO Row 1003: Deserialized Input: []
+2013-12-02 14:48:02,698 INFO Row 1003: UDF Output: 1003
+2013-12-02 14:48:02,698 INFO Row 1003: Serialized Output: 1003
+2013-12-02 14:48:02,708 INFO Row 1004: Serialized Input: 
+2013-12-02 14:48:02,709 INFO Row 1004: Deserialized Input: []
+2013-12-02 14:48:02,709 INFO Row 1004: UDF Output: 1004
+2013-12-02 14:48:02,709 INFO Row 1004: Serialized Output: 1004
+2013-12-02 14:48:02,719 INFO Row 1005: Serialized Input: 
+2013-12-02 14:48:02,719 INFO Row 1005: Deserialized Input: []
+2013-12-02 14:48:02,719 INFO Row 1005: UDF Output: 1005
+2013-12-02 14:48:02,719 INFO Row 1005: Serialized Output: 1005
